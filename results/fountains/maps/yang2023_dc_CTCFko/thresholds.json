@@ -1,0 +1,23 @@
+{
+  "fs_percentile": 90,
+  "inequalities": {
+    "FS": ">",
+    "FS_peaks": ">",
+    "Scharr_box": "<"
+  },
+  "method": "Li prominence; FS percentile; Scharr percentile; fitted per dataset",
+  "n_fs": 101351,
+  "n_noise": 101056,
+  "n_prominence": 10274,
+  "noise_percentile": 100,
+  "population": "all scored bins before calling or pixel-quality filtering; finite values per column",
+  "scikit_image_version": "0.26.0",
+  "scores_sha256": "622c0f6d23914e21b9c4399749fb810f48dd947fe5ae8ae1b73d7523a91f050f",
+  "thresholds": {
+    "max_noise": 275.6122960912918,
+    "min_fs": 0.40452944312749567,
+    "min_mask_fraction": 0.35,
+    "min_nonzero_fraction": 0.0,
+    "min_prominence": 0.22064963478937816
+  }
+}

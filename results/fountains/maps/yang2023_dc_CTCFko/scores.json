@@ -1,0 +1,10 @@
+{
+  "identity": {
+    "engine": "dataset-thresholds-2.0",
+    "mask_sha256": "a3fb53050bcb8750d1638d6c3b48e7efbd055b2677a72f2b7b06a570bd3c7637",
+    "numpy": "2.5.3",
+    "scipy": "1.18.0",
+    "stack_manifest_sha256": "ac322708b9931772bd9faf332da7a45d7bb72fbe6e6b1947ee094a30d99fded8"
+  },
+  "scores_sha256": "622c0f6d23914e21b9c4399749fb810f48dd947fe5ae8ae1b73d7523a91f050f"
+}
