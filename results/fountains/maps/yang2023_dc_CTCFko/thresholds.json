@@ -12,7 +12,7 @@
   "noise_percentile": 100,
   "population": "all scored bins before calling or pixel-quality filtering; finite values per column",
   "scikit_image_version": "0.26.0",
-  "scores_sha256": "622c0f6d23914e21b9c4399749fb810f48dd947fe5ae8ae1b73d7523a91f050f",
+  "scores_sha256": "26e016a95be9a9881a51b946f6d8ab9391f10737280e9e1eeddb86592584748c",
   "thresholds": {
     "max_noise": 275.6122960912918,
     "min_fs": 0.40452944312749567,

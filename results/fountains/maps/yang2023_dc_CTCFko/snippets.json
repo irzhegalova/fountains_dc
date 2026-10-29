@@ -1,6 +1,6 @@
 {
-  "bins_sha256": "b15271077dcb6c8dd52168e5c0850cfecc65bc7a3f5f153cf1dc58aadf3ca259",
-  "expected_sha256": "6d5b98119b145043d13061e6ccadce026f23f71a2e12b4dd3d73de21d1aa718f",
+  "bins_sha256": "7c19dc506f56930bf93a2e44b8ddba7cbd00a8cff6c7efea7030dfb537a63eef",
+  "expected_sha256": "07d723bc2cfb3241be819f85b711565f276c51b49e4aa41f66c00330ad2610b9",
   "identity": {
     "cooler_version": "0.10.4",
     "cooltools_version": "0.7.1",
@@ -148,6 +148,6 @@
     ]
   },
   "order": "cooler bins; axis 0 is snippet index",
-  "stack_mtime_ns": 1793223016620014409,
+  "stack_mtime_ns": 1793232053687414897,
   "values": "linear O/E; upper triangle"
 }
